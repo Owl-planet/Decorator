@@ -1,0 +1,2 @@
+# Decorator
+Python decorator örnekleri
